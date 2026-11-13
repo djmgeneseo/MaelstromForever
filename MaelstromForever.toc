@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: |cff0070deMaelstrom|r |cff66ddffForever|r
+## Notes: Enhancement Shaman Maelstrom Weapon tracker (5 stacks) with a glowing, storm-themed HUD near the bottom of your screen.
+## Author: David
+## Version: 1.0.0
+## SavedVariables: MaelstromForeverDB
+## IconTexture: Interface\Icons\Spell_Nature_Lightning
+
+MaelstromForever.lua
