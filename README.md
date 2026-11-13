@@ -9,8 +9,8 @@ It only appears while you have stacks, and only for Shamans.
 
 ### Commands (/msf):
 
-/msf test plays a demo from 0 to 5 stacks and back. Use this first to see the effects without needing procs.
-/msf unlock and /msf lock let you drag the panel to a new spot.
-/msf scale <0.5–2.5> resizes it, and /msf always toggles showing the empty tracker.
-/msf reset restores the default position and scale.
-/msf debug lists your buffs and marks the one being tracked, and /msf id <spellID> adds a spell ID to track.
+- /msf test plays a demo from 0 to 5 stacks and back. Use this first to see the effects without needing procs.
+- /msf unlock and /msf lock let you drag the panel to a new spot.
+- /msf scale <0.5–2.5> resizes it, and /msf always toggles showing the empty tracker.
+- /msf reset restores the default position and scale.
+- /msf debug lists your buffs and marks the one being tracked, and /msf id <spellID> adds a spell ID to track.
